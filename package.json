@@ -1,0 +1,8 @@
+{
+  "name": "kuwentuhan-bot",
+  "private": true,
+  "scripts": {
+    "dev": "node scripts/dev.js",
+    "start": "node scripts/dev.js"
+  }
+}
